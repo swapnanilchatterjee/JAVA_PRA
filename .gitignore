@@ -5,3 +5,7 @@
 .idea/
 *.iml
 out/
+
+# Ignore local instruction guide
+INSTRUCTIONS.md
+
