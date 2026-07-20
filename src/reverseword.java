@@ -1,3 +1,7 @@
+// TCS PRA Practice: Reverse Words in String
+// Description: Reverses the order of words in a given space-separated sentence.
+// Category: String Manipulation
+
 import java.util.*;
 public class reverseword {
     public static void main(String[] args){

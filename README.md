@@ -19,8 +19,9 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 | :--- | :--- | :--- | :--- | :---: |
 | 1 | [Average of N Numbers](src/average.java) | Computes the mathematical average of N inputs and formats the output to 2 decimal places. | Basic Mathematics | ✅ Passing |
 | 2 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
-| 3 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
-| 4 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
+| 3 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
+| 4 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
+| 5 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
 <!-- PRACTICE_LIST_END -->
 
 ---
