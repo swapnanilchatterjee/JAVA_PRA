@@ -1,3 +1,7 @@
+// TCS PRA Practice: Static Keyword Demonstration
+// Description: Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order.
+// Category: Core Java / OOPs
+
 import java.util.*;
 class Abc
 {

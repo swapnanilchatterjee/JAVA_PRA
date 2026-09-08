@@ -22,7 +22,7 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 | 3 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
 | 4 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
 | 5 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
-| 6 | [TestStatic](src/TestStatic.java) | No description provided. | Uncategorized | ✅ Passing |
+| 6 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
 <!-- PRACTICE_LIST_END -->
 
 ---
