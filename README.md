@@ -9,6 +9,7 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 * **Automated Indexing**: Program descriptions and categories are parsed dynamically from the source files.
 * **Syntax Validation**: A custom synchronization script compiles and validates every solution before it gets pushed to GitHub, ensuring no broken code is committed.
 * **Pre-configured Environment**: Works seamlessly with JetBrains Runtime compiler or system JDK.
+* **Master Handbook Included**: [TCS IPA Java Practice Master Handbook](TCS_IPA_Java_Handbook_Corrected_Full.pdf) is available in the repository root for quick revision of 35-mark coding patterns.
 
 ---
 
