@@ -1,4 +1,8 @@
-import  java.util.*;
+// TCS PRA Practice: Sports Analytics System
+// Description: Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type.
+// Category: Core Java / OOPs
+
+import java.util.*;
 public class Sports_Analytics {
    public static player findWithLowestRuns(player[] arr,String playerType){
        player minPlayer=null;
