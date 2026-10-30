@@ -22,11 +22,12 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 | 2 | [Fruits Management System](src/Fruits_Management_System.java) | Finds the fruit with the maximum price having a rating greater than a specified threshold. | Core Java / OOPs | ✅ Passing |
 | 3 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
 | 4 | [Laptop Management System](src/Laptop_Management.java) | Filters laptops by brand with rating > 3, and searches/sorts laptops by OS type in descending order of ID. | Core Java / OOPs | ✅ Passing |
-| 5 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
-| 6 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
-| 7 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
-| 8 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
-| 9 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
+| 5 | [Medicine Inventory Management](src/Medicine_Inventory.java) | Retrieves and sorts prices of medicines matching a specified disease in ascending order. | Core Java / OOPs | ✅ Passing |
+| 6 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
+| 7 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
+| 8 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
+| 9 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
+| 10 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
 <!-- PRACTICE_LIST_END -->
 
 ---
