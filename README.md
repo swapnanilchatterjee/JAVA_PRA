@@ -24,7 +24,7 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 | 4 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
 | 5 | [Laptop Management System](src/Laptop_Management.java) | Filters laptops by brand with rating > 3, and searches/sorts laptops by OS type in descending order of ID. | Core Java / OOPs | ✅ Passing |
 | 6 | [Medicine Inventory Management](src/Medicine_Inventory.java) | Retrieves and sorts prices of medicines matching a specified disease in ascending order. | Core Java / OOPs | ✅ Passing |
-| 7 | [Phone_Store](src/Phone_Store.java) | No description provided. | Uncategorized | ✅ Passing |
+| 7 | [Phone Store Management System](src/Phone_Store.java) | Calculates total price of phones for a given brand and finds the phone with minimum price for a given OS. | Core Java / OOPs | ✅ Passing |
 | 8 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
 | 9 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
 | 10 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
