@@ -9,7 +9,15 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 * **Automated Indexing**: Program descriptions and categories are parsed dynamically from the source files.
 * **Syntax Validation**: A custom synchronization script compiles and validates every solution before it gets pushed to GitHub, ensuring no broken code is committed.
 * **Pre-configured Environment**: Works seamlessly with JetBrains Runtime compiler or system JDK.
-* **Master Handbook Included**: [TCS IPA Java Practice Master Handbook](TCS_IPA_Java_Handbook_Corrected_Full.pdf) is available in the repository root for quick revision of 35-mark coding patterns.
+* **Master Handbook Included**: [TCS IPA Java Complete Handbook (Merged)](TCS_IPA_Java_Complete_Handbook_Merged.pdf) is available in the repository root for quick revision of 35-mark coding patterns.
+
+---
+
+## 📖 Reference Materials & Handbooks
+
+| Document | Description | Format |
+| :--- | :--- | :---: |
+| [TCS IPA Java Complete Handbook (Merged)](TCS_IPA_Java_Complete_Handbook_Merged.pdf) | Comprehensive merged handbook covering TCS IPA / PRA Java 35-mark coding patterns, standard OOP templates, and common examination questions. | PDF |
 
 ---
 
@@ -26,12 +34,13 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 | 6 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
 | 7 | [Laptop Management System](src/Laptop_Management.java) | Filters laptops by brand with rating > 3, and searches/sorts laptops by OS type in descending order of ID. | Core Java / OOPs | ✅ Passing |
 | 8 | [Medicine Inventory Management](src/Medicine_Inventory.java) | Retrieves and sorts prices of medicines matching a specified disease in ascending order. | Core Java / OOPs | ✅ Passing |
-| 9 | [Phone Store Management System](src/Phone_Store.java) | Calculates total price of phones for a given brand and finds the phone with minimum price for a given OS. | Core Java / OOPs | ✅ Passing |
-| 10 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
-| 11 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
-| 12 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
-| 13 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
-| 14 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
+| 9 | [Movie Budget & Rating Analysis](src/Movie_Budget_Analysis.java) | Calculates average budget for a specified genre and sorts movies with rating above threshold in descending order of budget. | Core Java / OOPs | ✅ Passing |
+| 10 | [Phone Store Management System](src/Phone_Store.java) | Calculates total price of phones for a given brand and finds the phone with minimum price for a given OS. | Core Java / OOPs | ✅ Passing |
+| 11 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
+| 12 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
+| 13 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
+| 14 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
+| 15 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
 <!-- PRACTICE_LIST_END -->
 
 ---
