@@ -6,7 +6,8 @@ param(
 $javacPath = "javac"
 $pathsToTest = @(
     "C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2024.3.5\jbr\bin\javac.exe",
-    "C:\Program Files\Java\jdk*\bin\javac.exe"
+    "C:\Program Files\Java\jdk*\bin\javac.exe",
+    "$env:USERPROFILE\.jdks\*\bin\javac.exe"
 )
 $compilerFound = $false
 

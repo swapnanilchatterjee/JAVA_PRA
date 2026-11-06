@@ -26,21 +26,22 @@ This repository is dedicated to preparing for the **TCS Practical Assessment (PR
 <!-- PRACTICE_LIST_START -->
 | Sl No | Program / Class | Description | Category | Status |
 | :--- | :--- | :--- | :--- | :---: |
-| 1 | [Average of N Numbers](src/average.java) | Computes the mathematical average of N inputs and formats the output to 2 decimal places. | Basic Mathematics | ✅ Passing |
-| 2 | [Bank Account & KYC Filtering](src/Bank_Kyc.java) | Filters bank accounts by KYC occupation and status, and sorts matching accounts by balance in ascending order. | Core Java / OOPs | ✅ Passing |
-| 3 | [Book Library Management System](src/Book_Library.java) | Finds the book with maximum pages for a given author and counts books with price greater than a given threshold. | Core Java / OOPs | ✅ Passing |
-| 4 | [Course Administration System](src/Course_Administration.java) | Calculates average fees by course administrator and sorts courses by fee for ratings within a threshold. | Core Java / OOPs | ✅ Passing |
-| 5 | [Fruits Management System](src/Fruits_Management_System.java) | Finds the fruit with the maximum price having a rating greater than a specified threshold. | Core Java / OOPs | ✅ Passing |
-| 6 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
-| 7 | [Laptop Management System](src/Laptop_Management.java) | Filters laptops by brand with rating > 3, and searches/sorts laptops by OS type in descending order of ID. | Core Java / OOPs | ✅ Passing |
-| 8 | [Medicine Inventory Management](src/Medicine_Inventory.java) | Retrieves and sorts prices of medicines matching a specified disease in ascending order. | Core Java / OOPs | ✅ Passing |
-| 9 | [Movie Budget & Rating Analysis](src/Movie_Budget_Analysis.java) | Calculates average budget for a specified genre and sorts movies with rating above threshold in descending order of budget. | Core Java / OOPs | ✅ Passing |
-| 10 | [Phone Store Management System](src/Phone_Store.java) | Calculates total price of phones for a given brand and finds the phone with minimum price for a given OS. | Core Java / OOPs | ✅ Passing |
-| 11 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
-| 12 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
-| 13 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
-| 14 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
-| 15 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
+| 1 | [Autonomous Car Testing](src/Autonomous_Car_Testing.java) | Updates car grades based on test pass rate in a given environment and finds the car with the second highest pass rate. | Core Java / OOPs | ✅ Passing |
+| 2 | [Average of N Numbers](src/average.java) | Computes the mathematical average of N inputs and formats the output to 2 decimal places. | Basic Mathematics | ✅ Passing |
+| 3 | [Bank Account & KYC Filtering](src/Bank_Kyc.java) | Filters bank accounts by KYC occupation and status, and sorts matching accounts by balance in ascending order. | Core Java / OOPs | ✅ Passing |
+| 4 | [Book Library Management System](src/Book_Library.java) | Finds the book with maximum pages for a given author and counts books with price greater than a given threshold. | Core Java / OOPs | ✅ Passing |
+| 5 | [Course Administration System](src/Course_Administration.java) | Calculates average fees by course administrator and sorts courses by fee for ratings within a threshold. | Core Java / OOPs | ✅ Passing |
+| 6 | [Fruits Management System](src/Fruits_Management_System.java) | Finds the fruit with the maximum price having a rating greater than a specified threshold. | Core Java / OOPs | ✅ Passing |
+| 7 | [Character Frequency Count](src/HashMap.java) | Counts and displays the frequency of each character in a given string, ignoring spaces and maintaining insertion order. | Hashing / Map | ✅ Passing |
+| 8 | [Laptop Management System](src/Laptop_Management.java) | Filters laptops by brand with rating > 3, and searches/sorts laptops by OS type in descending order of ID. | Core Java / OOPs | ✅ Passing |
+| 9 | [Medicine Inventory Management](src/Medicine_Inventory.java) | Retrieves and sorts prices of medicines matching a specified disease in ascending order. | Core Java / OOPs | ✅ Passing |
+| 10 | [Movie Budget & Rating Analysis](src/Movie_Budget_Analysis.java) | Calculates average budget for a specified genre and sorts movies with rating above threshold in descending order of budget. | Core Java / OOPs | ✅ Passing |
+| 11 | [Phone Store Management System](src/Phone_Store.java) | Calculates total price of phones for a given brand and finds the phone with minimum price for a given OS. | Core Java / OOPs | ✅ Passing |
+| 12 | [Reverse Words in String](src/reverseword.java) | Reverses the order of words in a given space-separated sentence. | String Manipulation | ✅ Passing |
+| 13 | [Second Largest Element](src/SecondLargest.java) | Finds the second largest element in an array of N integers after sorting. | Arrays | ✅ Passing |
+| 14 | [Sports Analytics System](src/Sports_Analytics.java) | Finds the player with the lowest runs for a given player type and calculates average runs for a specified match type. | Core Java / OOPs | ✅ Passing |
+| 15 | [String Palindrome Checker](src/stringpalindrome.java) | Checks if a given string is a palindrome (reads same forward and backward), ignoring case. | String Manipulation | ✅ Passing |
+| 16 | [Static Keyword Demonstration](src/TestStatic.java) | Demonstrates static initialization blocks, static variables (instance counter), static methods, and constructor execution order. | Core Java / OOPs | ✅ Passing |
 <!-- PRACTICE_LIST_END -->
 
 ---
